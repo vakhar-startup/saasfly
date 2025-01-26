@@ -14,8 +14,8 @@
       "cache": false
     },
     "format": {
-      "outputs": ["node_modules/.cache/.prettiercache"]
-      /*"outputMode": "new-only"*/
+      "outputs": ["node_modules/.cache/.prettiercache"],
+      "outputMode": "new-only"
     },
     "lint": {
       "dependsOn": ["^topo"],
